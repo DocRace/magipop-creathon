@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "title_super_mario_odyssey.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

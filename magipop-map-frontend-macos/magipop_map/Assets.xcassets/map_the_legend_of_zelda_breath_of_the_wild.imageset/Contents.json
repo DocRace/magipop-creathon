@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "map_the_legend_of_zelda_breath_of_the_wild.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
