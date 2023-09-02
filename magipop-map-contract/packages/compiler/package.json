@@ -1,0 +1,19 @@
+{
+  "name": "@neo-project/neo-compiler-ts",
+  "version": "0.0.0-placeholder",
+  "description": "",
+  "main": "./lib/index",
+  "keywords": [],
+  "author": "neo-project",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --build tsconfig.json",
+    "clean": "tsc --build tsconfig.json --clean"
+  },
+  "dependencies": {
+    "@cityofzion/neon-core": "^5.4.0",
+    "commander": "^10.0.1",
+    "fp-ts": "^2.16.0",
+    "ts-morph": "^18.0.0"
+  }
+}

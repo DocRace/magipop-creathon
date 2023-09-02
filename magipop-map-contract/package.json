@@ -1,0 +1,31 @@
+{
+  "name": "@neo-project/neo-devpack-ts",
+  "author": "neo-project",
+  "version": "0.0.0-placeholder",
+  "license": "MIT",
+  "workspaces": [
+    "packages/compiler",
+    "packages/framework"
+  ],
+  "scripts": {
+    "setup": "npm install && dotnet tool restore",
+    "build": "foy build",
+    "clean": "foy clean",
+    "samples": "foy samples",
+    "madge": "madge -c  --extensions ts ./packages/compiler/src",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "@tsconfig/node18": "^2.0.1",
+    "@types/chai": "^4.3.5",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^18.16.16",
+    "chai": "^4.3.7",
+    "foy": "^0.2.20",
+    "madge": "^6.1.0",
+    "mocha": "^10.2.0",
+    "nerdbank-gitversioning": "^3.6.133",
+    "ts-node": "^10.9.1",
+    "typescript": "5.0.4"
+  }
+}

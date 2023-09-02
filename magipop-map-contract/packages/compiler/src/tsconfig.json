@@ -1,0 +1,12 @@
+{
+    "extends": "@tsconfig/node18/tsconfig.json",
+    "compilerOptions": {
+        "composite": true,
+        "outDir": "../lib",
+        "sourceMap": true,
+    },
+    "exclude": [
+        "*.spec.ts",
+        "**/*.spec.ts"
+    ]
+}
