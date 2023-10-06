@@ -1,3 +1,7 @@
+# Updates: ZRC-20 integrated
+- Utilized ZetaChain's solution which supports BTC staking and voting. This allows the initiator of a creative project to kickstart collaborative creativity through BTC staking, and permits other administrators to participate in governance by staking BTC to vote.
+- Integrated the EVM mechanism and ZK technology to ensure copyright ownership and originality verification of the collaborative projects, which also guarantees fairness.
+
 # Vision
 Al fused co-creation tool for community, forging large-scale creativity into evolving stories
 # Description
