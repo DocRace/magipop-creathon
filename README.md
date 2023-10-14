@@ -1,3 +1,5 @@
+Demo Video:
+[![Demo Video](http://img.youtube.com/vi/ZbEWD0_8_0c/0.jpg)](http://www.youtube.com/watch?v=ZbEWD0_8_0c "magipop Creathon Solana Hyperdrive")
 # Updates: Creathon for Solana
 - Solana integrated: magipop Creathon aims to leverage Solana’s high scalability, automation, and cost-efficiency. Drawing on Solana’s fully community-driven autonomous Web3 infrastructure and compatibility with the EVM system, we aspire to enhancing both the MagiPop and Solana ecosystems
 - Creathon Module Launched.
@@ -20,8 +22,14 @@ This contract is the cornerstone of our pioneering privacy system. With the assu
 We trust that while zk is the foundation of privacy, it also serves as a vital bridge to consensus.
 ## Copyright market: autonomous Network
 magipop Creathon hopes to leverage Ethereum’s excellent seamless EVM scalability, secure Web3 infrastructure and rich ecosystem. Elevate the creative creator experience in magipop and the Ethereum ecosystem, driving a win-win situation of innovation and collaborative scale growth.
-## Magiry.AI: Idea tracking by LLM
-What truly distinguishes us is Magiry.AI, our creative assistant. Through the "detail_of" method, Magiry.AI seamlessly integrates diverse ideas from various creators, presenting them in a structured map. This approach makes collaborative creation feel like piecing together a story using LEGO. The Creathon map offers a unique space for creators to collaborate on fan-fiction storylines, all under a shared worldview. As a user contributes an idea, our AI analyzes it and positions it on the map, connecting it with other related ideas from different creators.
+## Idea tracking by LLM
+What truly distinguishes us is our creative AI assistant. Through the "detail_of" method, Creathon app seamlessly integrates diverse ideas from various creators, presenting them in a structured map. This approach makes collaborative creation feel like piecing together a story using LEGO. The Creathon map offers a unique space for creators to collaborate on fan-fiction storylines, all under a shared worldview. As a user contributes an idea, our AI analyzes it and positions it on the map, connecting it with other related ideas from different creators.
 meanwhile, Our "Creathon" turns this collaborative process into a playful competition. Here, creators engage in exciting challenges, and their creations are showcased on a map, highlighting the interconnections. This layout allows for an easy overview while also providing detailed insights when needed.
 ## magipop Map: Data Chain
 The magipop Map Contract lies at the core of Creathon's unique creative-linking system. By seamlessly integrating the capabilities of blockchain, AI, and collective creativity, we initiate our system with a distinctive contract hash. This sets a secure and transparent foundation for all operations. Capitalizing on the efficiency of layer 2, we ensure that all crucial data is securely stored on-chain, thus safeguarding every creator's contributions. Moreover, the contract serves as a bridge, connecting creators with their innovative concepts. With built-in functions like "post" and "detail_of", creators have the flexibility to share their ideas and retrieve them when needed. This design promotes a lively environment where ideas flow naturally and collaborations emerge effortlessly.
+
+## Contact us
+Race Li
+Telegram @RaceLi
+Twitter @melitosnap
+Email callmerace@hotmail.com
