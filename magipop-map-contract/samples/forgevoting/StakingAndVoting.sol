@@ -20,7 +20,7 @@ contract StakingAndVoting is IZRC20 {
     
     constructor() {
         balances[msg.sender] = _totalSupply;
-        emit Transfer(address(0), msg.sender, _totalSupply);
+        emit Transfer(address(0), msg.sender, _totalSupply);aa
     }
     
     function totalSupply() public view override returns (uint256) {
