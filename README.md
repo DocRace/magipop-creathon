@@ -6,6 +6,26 @@ Deck: https://docsend.com/view/ha9p3dirgwpgs6hf
 - Creathon Module Launched.
 - ZRC-20 integrated: Utilized ZetaChain's solution which supports BTC staking and voting. This allows the initiator of a creative project to kickstart collaborative creativity through BTC staking, and permits other administrators to participate in governance by staking BTC to vote.
 - Integrated the EVM mechanism and ZK technology to ensure copyright ownership and originality verification of the collaborative projects, which also guarantees fairness.
+## **Solana** **cNFT** Integrated
+![cNFT](/demo-images/cNFT.png)
+We could not have established such a thriving and collaborative creator community without the indispensable benefits brought by cNFTs on the Solana blockchain. Here are some of the key ways that cNFTs empower our Creathon:
+
+1. **cNFTs substantially boost efficiency on Solana** - By combining multiple NFTs into one, cNFTs reduce transactions and congestion, enabling seamless collaborative creation between our diverse creators.
+2. **cNFTs drastically lower costs** - Creators share gas fees when transacting using cNFTs, cutting the overall gas costs of our collaborative process tremendously. This makes participation far more accessible.
+3. **Enhance asset liquidity in mass content co-creation scenarios** - much easier for creators with multiple low-value NFTs to engage in decentralized finance and trading within our community.
+4. **Simplify management** - Creators don't have to manage each individual NFT separately, reducing operational complexity.
+5. **Improved scalability** - They are more developer-friendly, allowing large-scale automated generation of NFTs representing our collective works.
+6. **Boost security** - Their inherent structure makes them more resilient to potential attacks.
+
+## **Synergy & Contribution** to Solana
+1. Solana lacks projects in **the Passion Economy and creator economy spaces**, so magipop can **fill this gap** and provide unique value.
+2. magipop will **bring diverse types of creators into the Solana ecosystem**, expanding and enriching the creator community.
+3. Through **positive externality Tokenomic designs**, both internally and externally, magipop will enable creators, not just speculators, to earn real income and **move beyond the Ponzi model**. This aligns with Solana's goal of building real utility and value.
+4. magipop Creathon will fully utilize Solana's **high performance, scalibility and** **AI capabilities** to seamlessly integrate our AI models, enabling smooth idea scoring and evaluation for collaborative creativity.
+5. By focusing on niche passion communities, magipop will bring in **dedicated user bases that are deeply invested and engaged**, further increasing activity and transactions on Solana.
+6. magipop's gamified and transparent approach will **showcase the strengths of blockchain for new user segments**, acting as an onboarding portal for mainstream consumers to experience the benefits of Solana firsthand.
+7. As an innovative model for community-driven co-creation and crowdsourced storytelling, magipop will highlight new use cases that demonstrate Solana's versatility and ability to support next-gen applications.
+
 # Vision
 Al fused co-creation tool for community, forging large-scale creativity into evolving stories.
 # Description
