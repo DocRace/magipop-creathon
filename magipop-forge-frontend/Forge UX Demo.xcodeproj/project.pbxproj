@@ -27,14 +27,6 @@
 		1B8372172A76DD28009B5BF3 /* CreateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B8372162A76DD28009B5BF3 /* CreateView.swift */; };
 		1BAC83502A80C808008F176A /* CreathonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BAC834F2A80C808008F176A /* CreathonView.swift */; };
 		1BAC83522A80D8FF008F176A /* JoinCreathonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BAC83512A80D8FF008F176A /* JoinCreathonView.swift */; };
-		1BD62EF82AEB83880024E9F2 /* Alchemy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BD62EEE2AEB83870024E9F2 /* Alchemy.swift */; };
-		1BD62EF92AEB83880024E9F2 /* MagiryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BD62EEF2AEB83870024E9F2 /* MagiryView.swift */; };
-		1BD62EFA2AEB83880024E9F2 /* FilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BD62EF02AEB83870024E9F2 /* FilterView.swift */; };
-		1BD62EFB2AEB83880024E9F2 /* LinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BD62EF12AEB83870024E9F2 /* LinkView.swift */; };
-		1BD62EFC2AEB83880024E9F2 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BD62EF22AEB83880024E9F2 /* Models.swift */; };
-		1BD62EFE2AEB83880024E9F2 /* TokenRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BD62EF42AEB83880024E9F2 /* TokenRequest.swift */; };
-		1BD62EFF2AEB83880024E9F2 /* MagiryCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BD62EF52AEB83880024E9F2 /* MagiryCardView.swift */; };
-		1BD62F052AEB8DE80024E9F2 /* GameMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BD62F042AEB8DE80024E9F2 /* GameMapView.swift */; };
 		1BDEC7202A7B9F52003BC13F /* CreateView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BDEC71F2A7B9F52003BC13F /* CreateView2.swift */; };
 		1BDEC7222A7BC99A003BC13F /* ForgePreviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BDEC7212A7BC99A003BC13F /* ForgePreviewView.swift */; };
 		1BE9AB012A80F86C00AD1214 /* ConnectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BE9AB002A80F86C00AD1214 /* ConnectView.swift */; };
@@ -63,14 +55,6 @@
 		1B8372162A76DD28009B5BF3 /* CreateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateView.swift; sourceTree = "<group>"; };
 		1BAC834F2A80C808008F176A /* CreathonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreathonView.swift; sourceTree = "<group>"; };
 		1BAC83512A80D8FF008F176A /* JoinCreathonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoinCreathonView.swift; sourceTree = "<group>"; };
-		1BD62EEE2AEB83870024E9F2 /* Alchemy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alchemy.swift; sourceTree = "<group>"; };
-		1BD62EEF2AEB83870024E9F2 /* MagiryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MagiryView.swift; sourceTree = "<group>"; };
-		1BD62EF02AEB83870024E9F2 /* FilterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilterView.swift; sourceTree = "<group>"; };
-		1BD62EF12AEB83870024E9F2 /* LinkView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinkView.swift; sourceTree = "<group>"; };
-		1BD62EF22AEB83880024E9F2 /* Models.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
-		1BD62EF42AEB83880024E9F2 /* TokenRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TokenRequest.swift; sourceTree = "<group>"; };
-		1BD62EF52AEB83880024E9F2 /* MagiryCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MagiryCardView.swift; sourceTree = "<group>"; };
-		1BD62F042AEB8DE80024E9F2 /* GameMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameMapView.swift; sourceTree = "<group>"; };
 		1BDEC71F2A7B9F52003BC13F /* CreateView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateView2.swift; sourceTree = "<group>"; };
 		1BDEC7212A7BC99A003BC13F /* ForgePreviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgePreviewView.swift; sourceTree = "<group>"; };
 		1BE9AB002A80F86C00AD1214 /* ConnectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectView.swift; sourceTree = "<group>"; };
@@ -111,8 +95,6 @@
 				1B8372042A76A62B009B5BF3 /* ContentView.swift */,
 				1B8372122A76CFF4009B5BF3 /* OverallView.swift */,
 				1BE9AB022A81628600AD1214 /* MainTabView.swift */,
-				1BD62F032AEB8DCF0024E9F2 /* Pinnect */,
-				1BD62EEC2AEB833F0024E9F2 /* Magiry */,
 				1B04EED52AA2CCEE003C6789 /* NeoWallet.swift */,
 				1B04EECB2AA2B9EE003C6789 /* MapContentView.swift */,
 				1B04EED12AA2C126003C6789 /* MapView.swift */,
@@ -143,28 +125,6 @@
 				1B8372092A76A62D009B5BF3 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		1BD62EEC2AEB833F0024E9F2 /* Magiry */ = {
-			isa = PBXGroup;
-			children = (
-				1BD62EEE2AEB83870024E9F2 /* Alchemy.swift */,
-				1BD62EF52AEB83880024E9F2 /* MagiryCardView.swift */,
-				1BD62EEF2AEB83870024E9F2 /* MagiryView.swift */,
-				1BD62EF02AEB83870024E9F2 /* FilterView.swift */,
-				1BD62EF12AEB83870024E9F2 /* LinkView.swift */,
-				1BD62EF22AEB83880024E9F2 /* Models.swift */,
-				1BD62EF42AEB83880024E9F2 /* TokenRequest.swift */,
-			);
-			path = Magiry;
-			sourceTree = "<group>";
-		};
-		1BD62F032AEB8DCF0024E9F2 /* Pinnect */ = {
-			isa = PBXGroup;
-			children = (
-				1BD62F042AEB8DE80024E9F2 /* GameMapView.swift */,
-			);
-			path = Pinnect;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -240,15 +200,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1BD62EFA2AEB83880024E9F2 /* FilterView.swift in Sources */,
 				1B8372132A76CFF4009B5BF3 /* OverallView.swift in Sources */,
-				1BD62EF92AEB83880024E9F2 /* MagiryView.swift in Sources */,
 				1B04EED02AA2C113003C6789 /* MapView2.swift in Sources */,
 				1BDEC7202A7B9F52003BC13F /* CreateView2.swift in Sources */,
-				1BD62EFE2AEB83880024E9F2 /* TokenRequest.swift in Sources */,
-				1BD62EF82AEB83880024E9F2 /* Alchemy.swift in Sources */,
 				1B14E5342A7A997D00F1A7D3 /* NodeModel.swift in Sources */,
-				1BD62EFF2AEB83880024E9F2 /* MagiryCardView.swift in Sources */,
 				1BE9AB012A80F86C00AD1214 /* ConnectView.swift in Sources */,
 				1BE9AB032A81628600AD1214 /* MainTabView.swift in Sources */,
 				1BDEC7222A7BC99A003BC13F /* ForgePreviewView.swift in Sources */,
@@ -257,7 +212,6 @@
 				1BAC83502A80C808008F176A /* CreathonView.swift in Sources */,
 				1B04EECC2AA2B9EE003C6789 /* MapContentView.swift in Sources */,
 				1B04EECE2AA2BB29003C6789 /* CardView.swift in Sources */,
-				1BD62EFB2AEB83880024E9F2 /* LinkView.swift in Sources */,
 				1B8372032A76A62B009B5BF3 /* Forge_UX_DemoApp.swift in Sources */,
 				1B8372112A76CA4C009B5BF3 /* SummarisedCardView.swift in Sources */,
 				1B04EED42AA2C1F6003C6789 /* MarkView.swift in Sources */,
@@ -266,10 +220,8 @@
 				1B04EED62AA2CCEE003C6789 /* NeoWallet.swift in Sources */,
 				1B14E5322A7A994F00F1A7D3 /* NodeView.swift in Sources */,
 				1B04EED22AA2C126003C6789 /* MapView.swift in Sources */,
-				1BD62F052AEB8DE80024E9F2 /* GameMapView.swift in Sources */,
 				1B8372152A76D4EB009B5BF3 /* CardModel.swift in Sources */,
 				1B530EEE2A895E5000280CE1 /* CreathonView2.swift in Sources */,
-				1BD62EFC2AEB83880024E9F2 /* Models.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

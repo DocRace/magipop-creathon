@@ -55,7 +55,7 @@ Each station becomes a separate book in its own right.
     ]
 
     var body: some View {
-//        NavigationStack {
+        NavigationStack {
             ScrollView {
                 VStack(alignment: .leading) {
                     
@@ -206,8 +206,7 @@ Each station becomes a separate book in its own right.
                 .padding(.bottom, 12),
                 alignment: .bottom
             )
-            .navigationTitle("Creathon")
-//        }
+        }
         
     }
 }

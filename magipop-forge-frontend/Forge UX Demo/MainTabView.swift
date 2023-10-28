@@ -27,14 +27,14 @@ struct MainTabView: View {
                         }
                         .tag(0)
                     
-                    MagiryView()
+                    CreathonView()
                         .tabItem{
                             Image(systemName: "mail.stack.fill")
                             Text("Creathon")
                         }
                         .tag(1)
                     
-                    GameMapView()
+                    MapContentView()
                         .tabItem{
                             Image(systemName: "map.fill")
                             Text("Map")
